@@ -3,7 +3,7 @@
 
 :low_brightness: Hard work never killed anyone, worry kills 
 
-:trident: 1  Year experience front end devloper as frelancer Web / Aplication and Game plugin developer  
+:trident: 1  Year experience front end devloper as Web / Aplication and Game plugin developer frelancer  
 
 :cyclone: Interested in learning , Team Work , Doing creative and new things 
 
