@@ -5,7 +5,7 @@
 
 :trident: 1  Year experience front end devloper as frelancer Web / Aplication and Game plugin developer  
 
-:cyclone: Interested in learning ,Team Work , Doing creative and new things 
+:cyclone: Interested in learning , Team Work , Doing creative and new things 
 
 
 ## Development 
