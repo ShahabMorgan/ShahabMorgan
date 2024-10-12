@@ -6,7 +6,7 @@
 :trident: 1  Year experience front end devloper as frelancer Web developer / Aplication / Game plugin 
 
 :cyclone: Interested in learning ,Team Work , Doing creative and new things 
-tailwind,sass,nextjs,react,vite,nodejs,,electron	
+
 
 ## Development 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
@@ -14,6 +14,8 @@ tailwind,sass,nextjs,react,vite,nodejs,,electron
 ## Development Freamworks / Libraries
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,expressjs,electron,expressjs	)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=taillwind,swiper	)](https://skillicons.dev)
 
 ## Development Run Times
  
