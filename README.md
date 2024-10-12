@@ -11,20 +11,20 @@
 ## Development 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
 
-## Development Freamworks / Libraries
+## Development Freamworks && Libraries
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,expressjs,electron	)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
-## Development Engine
+## Development Engine && DataBase
  
-[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
 
 ## Boundlers 
 
 [![My Skills](https://skillicons.dev/icons?i=vite,webpack)](https://skillicons.dev)
 
-## Application / Tolls 
+## Application && Tolls 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,phpstorm,figma,photoshop,wordpress)](https://skillicons.dev)
