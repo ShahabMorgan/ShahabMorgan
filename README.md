@@ -1,16 +1,13 @@
-## Hi there 👋
+## Greeting
 
-<!--
-**ShahabMorgan/ShahabMorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:low_brightness: ##Hard work never killed anyone, worry kills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:trident: 1  Year experience front end devloper as frelancer Web developer / Aplication / Game plugin 
+
+:cyclone: Interested in ##learning , ##Team Work , ##Doing creative and new things 
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,sass,nextjs,react,vite	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,figma,wordpress)](https://skillicons.dev)
