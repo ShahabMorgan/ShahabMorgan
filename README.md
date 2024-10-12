@@ -9,13 +9,13 @@
 
 
 ## Development 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
 
 ## Development Freamworks / Libraries
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,expressjs,electron,expressjs	)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=taillwind,swiper	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
 ## Development Run Times
  
