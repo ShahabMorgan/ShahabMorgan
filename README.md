@@ -8,7 +8,7 @@
 :cyclone: Interested in learning ,Team Work , Doing creative and new things 
 
 
-## Development / Development Tolls 
+## Development / Tolls 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,sass,nextjs,react,vite	)](https://skillicons.dev)
 
 
