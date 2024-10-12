@@ -13,7 +13,7 @@
 
 ## Development Freamworks / Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,expressjs,electron,expressjs	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,expressjs,electron	)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
