@@ -27,4 +27,4 @@
 
 ## Application / Tolls 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,figma,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,figma,photoshop,wordpress)](https://skillicons.dev)
