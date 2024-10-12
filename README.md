@@ -11,13 +11,13 @@
 ## Development 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css)](https://skillicons.dev)
 
-## Development Freamworks && Libraries
+## Development Freamworks & Libraries
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,expressjs,electron	)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
-## Development Engine && DataBase
+## Development Engine & DataBase
  
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
 
@@ -25,6 +25,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vite,webpack)](https://skillicons.dev)
 
-## Application && Tolls 
+## Application & Tolls 
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,visualstudio,phpstorm,figma,photoshop,ai,wordpress)](https://skillicons.dev)
