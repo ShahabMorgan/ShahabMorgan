@@ -1,7 +1,7 @@
 ## Greeting
 
 
-:trident: 1  Year experience front end devloper as Web / Aplication and Game plugin developer frelancer  
+:trident: 2  Year experience front end devloper as Web / Aplication and Game plugin developer frelancer  
 
 :cyclone: Interested in learning , Team Work , Doing creative and new things 
 
