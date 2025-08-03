@@ -12,7 +12,7 @@ https://mahdishahabi.ir/
 
 ## Development Freamworks & Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,expressjs,electron	)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,angular,nodejs,expressjs,electron	)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
